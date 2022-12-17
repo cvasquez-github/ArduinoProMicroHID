@@ -19,3 +19,6 @@ I'm currently using this for adding additional 2 buttons to my Arcade (Insert Co
 | MICRO USB       | Windows PC USB            |
 
 I guess this may work with other operating systems as well but haven't tried it yet.
+
+## SparkFun Tutorial
+There is a very good article about this from SparkFun Electronics: [https://www.sparkfun.com/tutorials/337](https://www.sparkfun.com/tutorials/337).
