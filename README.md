@@ -4,7 +4,8 @@ Using an Arduino Pro Micro as a Windows Input device.
 ## Triggering Key Press and Release:
 You can easily use an Arduino Pro Micro as a custom input device for Windows.
 In this example, I'm triggering a 'c' keypress when PIN 8 is connected to ground/LOW, and 'v' keypress when PIN 9 is connected to ground/LOW.
-Then triggers a keyrelease event accordingly when the state changes back to HIGH. (Take a look at arduino_micro_keypress.ino)
+Then triggers a keyrelease event accordingly when the state changes back to HIGH. 
+Take a look at the sample [arduino_micro_keypress.ino](https://github.com/cvasquez-github/ArduinoProMicroHID/blob/main/arduino_micro_keypress.ino) file.
 
 I'm currently using this board for adding additional 2 buttons to my Arcade (Insert Coin 1, and Insert Coin 2).
 
