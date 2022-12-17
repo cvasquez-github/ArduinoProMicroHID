@@ -7,7 +7,7 @@ In this example, I'm triggering a 'c' keypress when PIN 8 is connected to ground
 Then triggers a keyrelease event accordingly when the state changes back to HIGH. 
 Take a look at the sample [arduino_micro_keypress.ino](https://github.com/cvasquez-github/ArduinoProMicroHID/blob/main/arduino_micro_keypress.ino) file.
 
-I'm currently using this board for adding additional 2 buttons to my Arcade (Insert Coin 1, and Insert Coin 2).
+I'm currently using this for adding additional 2 buttons to my Arcade (Insert Coin 1, and Insert Coin 2).
 
 ![alt text](https://raw.githubusercontent.com/cvasquez-github/ArduinoProMicroHID/main/pro-micro-coin-diagram.png)
 
